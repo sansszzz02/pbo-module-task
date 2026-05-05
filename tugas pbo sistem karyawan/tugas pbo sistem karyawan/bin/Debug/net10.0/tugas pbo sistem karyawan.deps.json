@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "tugas pbo sistem karyawan/1.0.0": {
+        "runtime": {
+          "tugas pbo sistem karyawan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tugas pbo sistem karyawan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

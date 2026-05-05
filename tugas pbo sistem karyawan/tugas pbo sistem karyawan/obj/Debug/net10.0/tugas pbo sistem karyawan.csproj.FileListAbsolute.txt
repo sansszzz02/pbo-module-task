@@ -1,0 +1,14 @@
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\bin\Debug\net10.0\tugas pbo sistem karyawan.exe
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\bin\Debug\net10.0\tugas pbo sistem karyawan.deps.json
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\bin\Debug\net10.0\tugas pbo sistem karyawan.runtimeconfig.json
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\bin\Debug\net10.0\tugas pbo sistem karyawan.dll
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\bin\Debug\net10.0\tugas pbo sistem karyawan.pdb
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\obj\Debug\net10.0\tugas pbo sistem karyawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\obj\Debug\net10.0\tugas pbo sistem karyawan.AssemblyInfoInputs.cache
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\obj\Debug\net10.0\tugas pbo sistem karyawan.AssemblyInfo.cs
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\obj\Debug\net10.0\tugas pbo sistem karyawan.csproj.CoreCompileInputs.cache
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\obj\Debug\net10.0\tugas pbo sistem karyawan.dll
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\obj\Debug\net10.0\refint\tugas pbo sistem karyawan.dll
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\obj\Debug\net10.0\tugas pbo sistem karyawan.pdb
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\obj\Debug\net10.0\tugas pbo sistem karyawan.genruntimeconfig.cache
+C:\Users\Msi-pc\visual studio\tugas pbo sistem karyawan\tugas pbo sistem karyawan\obj\Debug\net10.0\ref\tugas pbo sistem karyawan.dll
